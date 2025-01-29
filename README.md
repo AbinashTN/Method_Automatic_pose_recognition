@@ -11,14 +11,14 @@ We also tested the OpenPose model (https://github.com/CMU-Perceptual-Computing-L
 
 ## Configuration 
 
-You need to install PyTorch
+- You need to install PyTorch
 
-Download or Clone our repository
+- Download or Clone our repository
 
-If you want to test or train with the LSPPE Datasets, you need to install it using this link https://github.com/axelcarlier/lsp . We put all the files in a "lsp_dataset" folder.
-If you want to test or train with the MPII Datasets, you need to install it using this link [https://github.com/axelcarlier/lsp](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset/download) . We put all the files in a "mpii_dataset" folder.
+- If you want to test or train with the LSPPE Datasets, you need to install it using this link https://github.com/axelcarlier/lsp . We put all the files in a "lsp_dataset" folder.
+- If you want to test or train with the MPII Datasets, you need to install it using this link [https://github.com/axelcarlier/lsp](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/software-and-datasets/mpii-human-pose-dataset/download) . We put all the files in a "mpii_dataset" folder.
 
-If you want to use one of our four trained models, you need to install the checkpoints which are in the release.
+- If you want to use one of our four trained models, you need to install the checkpoints which are in the release.
 
 ## Real time Prediction 
 
