@@ -31,4 +31,4 @@ We also tested the OpenPose model (https://github.com/CMU-Perceptual-Computing-L
 
 ## Real time Prediction
 
-Run the human_detection.py file (you must choose the model you want to use) (we advise you to use the Resnet50 model trained with the 2nd dataset).
+Run the human_detection_dataset1.py or human_detection_dataset2.py file (you must choose the model you want to use) (we advise you to use the Resnet50 model trained with the 2nd dataset).
