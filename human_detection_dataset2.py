@@ -130,7 +130,7 @@ out = cv2.VideoWriter(
     (frame_width, frame_height)
 )
 
-'''
+
 # open webcam video stream
 cap = cv2.VideoCapture(0)
 
@@ -141,7 +141,7 @@ out = cv2.VideoWriter(
     15.,
     (640, 480)
 )
-'''
+
 
 while True:
     # reading the frame

@@ -5,3 +5,5 @@ scipy
 matplotlib
 numpy
 opencv-python
+opencv-contrib-python
+torchsummary
